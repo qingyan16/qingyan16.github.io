@@ -1,0 +1,39 @@
+---
+---
+
+/* =====================
+   去掉 Minima header 顶部/底部所有线
+   ===================== */
+
+.site-header {
+  border: none !important;
+}
+
+.site-header::before,
+.site-header::after {
+  display: none !important;
+}
+
+.site-header .wrapper {
+  border: none !important;
+}
+
+/* =====================
+   导航右对齐 + 拉开间距
+   ===================== */
+
+.site-nav {
+  display: flex !important;
+  justify-content: flex-end !important; /* 右对齐 */
+  gap: 2rem;                            /* Home / Bio / Research 间距 */
+}
+
+/* 链接样式（可选） */
+.site-nav a {
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.site-nav a:hover {
+  text-decoration: underline;
+}
