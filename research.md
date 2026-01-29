@@ -10,7 +10,7 @@ nav_order: 3
 
 
 
-### Selected publications
+## Selected publications
 
 **Stats/Biostats methods**
 
