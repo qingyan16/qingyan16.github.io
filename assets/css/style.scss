@@ -5,6 +5,19 @@
    去掉 Minima header 顶部/底部所有线
    ===================== */
 
+.page-content {
+  border-top: none !important;
+}
+
+.page-content hr {
+  display: none !important;
+}
+
+/* 有些版本的 minima 用这个 */
+.wrapper hr {
+  display: none !important;
+}
+
 .site-header {
   border: none !important;
 }
