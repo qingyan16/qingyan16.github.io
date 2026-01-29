@@ -1,6 +1,7 @@
 ---
-layout: default
-title: Bio   
+layout: page
+title: Bio  
+nav_order: 2 
 ---
 
 
