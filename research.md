@@ -3,7 +3,6 @@ layout: page
 title: Research
 ---
 
-## Research 
 
 **Full list of publications can be found in my [Google Scholar](https://scholar.google.com/citations?user=y5UsJi0AAAAJ&hl=en)**
 
