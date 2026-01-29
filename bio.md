@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bio   # 或 Research / Contact
+title: Bio   
 ---
 
 
