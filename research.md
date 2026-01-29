@@ -17,4 +17,7 @@ nav_order: 3
 
 **Xiang, Qingyan**, Ronald J. Bosch, and Judith J. Lok. "The survival‐incorporated median vs the median in the survivors or in the always‐survivors: What are we measuring? and Why?." Statistics in medicine 42.29 (2023): 5479-5490.
 
+ <br/><br/>
+
 **Applied clinical/epi studies**
+(coming soon)
