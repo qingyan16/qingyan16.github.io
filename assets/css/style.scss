@@ -1,25 +1,15 @@
 ---
 ---
 
+@import "minima";
+
 /* =====================
-   去掉 Minima header 顶部/底部所有线
+   REMOVE ALL HEADER LINES (top + bottom)
    ===================== */
 
-.page-content {
-  border-top: none !important;
-}
-
-.page-content hr {
-  display: none !important;
-}
-
-/* 有些版本的 minima 用这个 */
-.wrapper hr {
-  display: none !important;
-}
-
 .site-header {
-  border: none !important;
+  border-top: none !important;
+  border-bottom: none !important;
 }
 
 .site-header::before,
@@ -27,26 +17,23 @@
   display: none !important;
 }
 
+/* Minima sometimes draws lines on wrapper */
 .site-header .wrapper {
   border: none !important;
 }
 
 /* =====================
-   导航右对齐 + 拉开间距
+   NAVIGATION: RIGHT ALIGN + MORE SPACE
    ===================== */
 
 .site-nav {
   display: flex !important;
-  justify-content: flex-end !important; /* 右对齐 */
-  gap: 2rem;                            /* Home / Bio / Research 间距 */
+  justify-content: flex-end !important;
+  gap: 2.5rem;              /* space between Home / Bio / Research */
 }
 
-/* 链接样式（可选） */
-.site-nav a {
-  font-weight: 500;
-  text-decoration: none;
-}
-
-.site-nav a:hover {
-  text-decoration: underline;
+/* Optional: reduce header height */
+.site-header {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
 }
