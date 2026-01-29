@@ -4,10 +4,7 @@ title: Home
 ---
 
 
-# Qingyan Xiang
-Assistant Professor of Biostatistics at Vanderbilt University Medical Center
+# Qingyan Xiang 
 
-Welcome to my personal website!  
-I work on causal inference, machine learning, infectious diesease studies, and aging studies.
+I am currently Assistant Professor of Biostatistics at Vanderbilt University Medical Center. I am interested in causal inference and machine learning. My work spans randomized trials and observational studies, with focuses in applied studies including infectious diseases, aging, and pain research. 
 
-More coming soon.
