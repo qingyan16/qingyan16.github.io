@@ -1,28 +1,5 @@
-/* 顶部 header */
-.site-header {
-  border-bottom: none;     /* 去掉那条线 */
-}
-
-/* 容器 */
-.site-header .wrapper {
-  max-width: 100%;
-  padding: 0 2rem;
-}
-
-/* 导航 */
-.site-nav {
-  display: flex;
-  justify-content: flex-end;   /* ⭐右对齐的关键 */
-  gap: 1rem;
-}
-
-/* 链接样式 */
-.site-nav a {
-  text-decoration: none;
-  font-weight: 500;
-  color: #0366d6;
-}
-
-.site-nav a:hover {
-  text-decoration: underline;
-}
+<main class="page-content" aria-label="Content">
+  <div class="wrapper">
+    {{ content }}
+  </div>
+</main>
