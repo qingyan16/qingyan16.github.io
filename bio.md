@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Bio  
-nav_order: 2 
 ---
 
 
