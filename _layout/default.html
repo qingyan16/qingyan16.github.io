@@ -1,52 +1,28 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8">
-    <title>{{ page.title }} | {{ site.title }}</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+/* 顶部 header */
+.site-header {
+  border-bottom: none;     /* 去掉那条线 */
+}
 
-    <style>
-      body {
-        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI",
-                     Roboto, Oxygen, Ubuntu, Cantarell, "Helvetica Neue",
-                     Arial, sans-serif;
-        margin: 0;
-        padding: 0;
-        line-height: 1.6;
-      }
+/* 容器 */
+.site-header .wrapper {
+  max-width: 100%;
+  padding: 0 2rem;
+}
 
-      nav {
-        display: flex;
-        justify-content: flex-end;   /* push links to the right */
-        align-items: center;
-        padding: 1rem 2rem;
-        background-color: #fafafa;
-      }
+/* 导航 */
+.site-nav {
+  display: flex;
+  justify-content: flex-end;   /* ⭐右对齐的关键 */
+  gap: 1rem;
+}
 
-      nav a {
-        margin-right: 1rem;
-        text-decoration: none;
-        color: #0366d6;
-        font-weight: 500;
-      }
+/* 链接样式 */
+.site-nav a {
+  text-decoration: none;
+  font-weight: 500;
+  color: #0366d6;
+}
 
-      nav a:hover {
-        text-decoration: underline;
-      }
-
-      main {
-        max-width: 800px;
-        margin: auto;
-        padding: 2rem 1rem;
-      }
-    </style>
-  </head>
-
-  <body>
-    {% include header.html %}
-
-    <main>
-      {{ content }}
-    </main>
-  </body>
-</html>
+.site-nav a:hover {
+  text-decoration: underline;
+}
