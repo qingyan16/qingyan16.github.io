@@ -6,3 +6,4 @@ minima:
   nav_pages:
     - index.md
     - research.md
+    - test.md
