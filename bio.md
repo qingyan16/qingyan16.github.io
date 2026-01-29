@@ -1,3 +1,9 @@
+---
+layout: default
+title: Bio   # 或 Research / Contact
+---
+
+
 ### Appointments
 - Assistant Professor, VUMC
 - Lead statistician, the Aurum institute
