@@ -1,7 +1,7 @@
 ---
 layout: page
 title: amex
-permalink: /amex/
+#permalink: /amex/
 ---
 
 

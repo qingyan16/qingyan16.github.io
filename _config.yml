@@ -2,8 +2,7 @@ theme: minima
 title: Qingyan Xiang
 description: Assistant Professor of Biostatistics, VUMC
 
-minima:
-  nav_pages:
+header_pages:
     - index.md
     - bio.md
     - research.md
