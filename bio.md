@@ -7,7 +7,8 @@ title: Bio
 
 ### Appointments
 - 2024 - present: Assistant Professor, Vanderbilt University Medical Center, Nashville, US.
-- 2024 - present: Lead statistician (adjunct), the Aurum institute, Johannesburg, SA.
+- 2024 - present: Lead statistician (adjunct), the Aurum institute, Johannesburg, South Africa.
+  - (This is a joint appointment with VUMC)
 - 2024: Statistician, Tufts Medical Center, Boston, US.
 
 
@@ -15,6 +16,7 @@ title: Bio
 
 ### Education
 - Ph.D. in Biostatistics, Boston University
+  - Advisors: Judith Lok and Paola Sebastiani
 - M.S. in Statistics, University of Illinois at Urbana-Champaign
 - B.E. in Food Science and engineering, Zhejiang University
 
