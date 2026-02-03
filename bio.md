@@ -34,6 +34,12 @@ title: Bio
 
 
 ### Teaching
-- 2026 - present: BIOS 7352, Statistical Collaboration in Health Sciences II. Spring semester.
+- 2020 fall: GRS MA 781, Estimation Theory. Boston University
+  - Teaching assistant
+- 2022 spring: SPH BS 831, Genomics Data Mining. Boston University 
+  - Teaching assistant
+- 2026 spring - present: BIOS 7352, Statistical Collaboration in Health Sciences II. Vanderbilt University. 
+  - Instructor.
+
 
 
