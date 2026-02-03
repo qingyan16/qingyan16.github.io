@@ -31,5 +31,5 @@ title: Research
 
 - **Xiang, Q.**, Lok, J.J., Roth, N., Andersen, S.L., Perls, T.T., Song, Z., Yashin, A.I., Mengel-From, J., Patti, G.J. and Sebastiani, P., 2025. The role of lipids in the effect of APOE2 on cognitive function: a causal mediation analysis. *European Journal of Epidemiology*, pp.1-12.
 
-- Sebastiani, P., Reed, E., Chandler, K.B., Lopez, P., Lords, H., Bae, H., Costello, C.E., Au, M., Deng, L.L., Li, M., **Xiang, Q.**, Noh, H., Pflieger, L., Funk, C., Rappaport, N., Nygaard, M., Short, M.I., Brent, M., Monti, S., Andersen, S.L., Perls, T.T., n.d. A Robust Serum Proteomic Signature of the E2 Allele of Apolipoprotein E. *European Journal of Epidemiology*, e09764.
+- Sebastiani, P., Reed, E., Chandler, K.B., Lopez, P., Lords, H., Bae, H., Costello, C.E., Au, M., Deng, L.L., Li, M., **Xiang, Q.**, Noh, H., Pflieger, L., Funk, C., Rappaport, N., Nygaard, M., Short, M.I., Brent, M., Monti, S., Andersen, S.L., Perls, T.T., n.d. A Robust Serum Proteomic Signature of the E2 Allele of Apolipoprotein E. *Advanced Science*, e09764.
 
