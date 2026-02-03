@@ -23,7 +23,7 @@ title: Research
  <br/><br/>
 
 #### Applied clinical/epidemiologic studies
-- **Xiang, Q.**, Andersen, S.L., Sweigart, B., Gunn, S., Nygaard, M., Perls, T.T., and Sebastiani, P., 2023. ``Signatures of Neuropsychological Test Results in the Long Life Family Study: A Cluster Analysis.'' *Journal of Alzheimer's Disease*, 93(4), 1457-1469. 
+- **Xiang, Q.**, Andersen, S.L., Sweigart, B., Gunn, S., Nygaard, M., Perls, T.T., and Sebastiani, P., 2023. Signatures of Neuropsychological Test Results in the Long Life Family Study: A Cluster Analysis. *Journal of Alzheimer's Disease*, 93(4), 1457-1469. 
 
 - Sebastiani, P., Monti, S., Lustgarten, M.S., Song, Z., Ellis, D., Tian, Q., Schwaiger-Haber, M., Stancliffe, E., Leshchyk, A., Short, M.I., Ardisson Korat, A.V., Gurinovich, A., Karagiannis, T., Li, M., Lords, H.J., **Xiang, Q.**, Marron, M.M., Bae, H., Feitosa, M.F., Wojczynski, M.K., O’Connell, J.R., Montasser, M.E., Schupf, N., Arbeev, K., Yashin, A., Schork, N., Christensen, K., Andersen, S.L., Ferrucci, L., Rappaport, N., Perls, T.T., Patti, G.J., 2024. Metabolite signatures of chronological age, aging, survival, and longevity. *Cell Reports* 43(11).  
 
