@@ -4,11 +4,17 @@ title: Bio
 #permalink: /bio/
 ---
 
+### Contact
+
+ - Email: qingyan(dot)xiang(at)vumc(dot)org
+ - Office phone: 615-322-4376
+ - Address: 2525 West End Ave. Suite 1100, Nashville, TN 37232.
+
 
 ### Appointments
 - 2024 - present: Assistant Professor, Vanderbilt University Medical Center, Nashville, US.
-- 2024 - present: Lead statistician (adjunct), the Aurum institute, Johannesburg, South Africa.
-  - (This is a joint appointment with VUMC)
+- 2024 - present: Lead statistician (adjunct), the Aurum Institute, Johannesburg, South Africa.
+  - This is a joint appointment with VUMC.
 - 2024: Statistician, Tufts Medical Center, Boston, US.
 
 
@@ -29,3 +35,5 @@ title: Bio
 
 ### Teaching
 - 2026 - present: BIOS 7352, Statistical Collaboration in Health Sciences II. Spring semester.
+
+
