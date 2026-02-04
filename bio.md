@@ -7,7 +7,6 @@ title: Bio
 ### Contact
 
  - Email: qingyan(dot)xiang(at)vumc(dot)org
- - Office phone: 615-322-4376
  - Address: 2525 West End Ave. Suite 1100, Nashville, TN 37232.
 
 
@@ -29,17 +28,20 @@ title: Bio
 
 
 ### Research interests
-- Methodology: causal inference, causal machine learning, AI/ML, genomics, clinical trials \\
-- Application: infectious disease (Tuberculosis and HIV), aging, pain research\\
+- Methodology: causal inference, causal machine learning, AI/ML, genomics, clinical trials 
+- Application: infectious disease (Tuberculosis and HIV), aging, pain research
 
 
 ### Teaching
-- 2020 fall: GRS MA 781, Estimation Theory. Boston University
-  - Teaching assistant
-- 2022 spring: SPH BS 831, Genomics Data Mining. Boston University 
-  - Teaching assistant
-- 2026 spring - present: BIOS 7352, Statistical Collaboration in Health Sciences II. Vanderbilt University. 
-  - Instructor.
+Teaching assistant
+- GRS MA 781, Estimation Theory. Boston University
+  - 2020 fall
+- SPH BS 831, Genomics Data Mining. Boston University 
+  - 2022 spring
+
+Instructor
+- BIOS 7352, Statistical Collaboration in Health Sciences II. Vanderbilt University. 
+  - 2026 spring - present
 
 
 
