@@ -11,10 +11,12 @@ title: Bio
 
 
 ### Appointments
-- 2024 - present: Assistant Professor, Vanderbilt University Medical Center, Nashville, US.
-- 2024 - present: Lead statistician (adjunct), the Aurum Institute, Johannesburg, South Africa.
-  - This is a joint appointment with VUMC.
-- 2024: Statistician, Tufts Medical Center, Boston, US.
+- Assistant Professor, Vanderbilt University Medical Center, Nashville, US.
+  - 2024 - present
+- Lead statistician (adjunct), the Aurum Institute, Johannesburg, South Africa.
+  - 2024 - present (This is a joint appointment with VUMC)
+- Statistician, Tufts Medical Center, Boston, US.
+  - 2024
 
 
 

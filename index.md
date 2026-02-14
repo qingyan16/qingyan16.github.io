@@ -1,9 +1,15 @@
 ---
 layout: home
 title: Home
-#permalink: /index/
+hide_title: true
 ---
 
+
+ <br/><br/>
+
+ <p style="text-align:center;">
+<img src="CX_final_FY.png" alt="photo" style="max-width:420px; border-radius:12px;">
+</p>
 
  <br/><br/>
 

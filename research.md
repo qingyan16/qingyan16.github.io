@@ -15,7 +15,8 @@ title: Research
 #### Stats/Biostats methods
 - **Xiang, Q.**, Bosch, R., and Lok, J. J., 2023.  ''The survival-incorporated median versus the median in the survivors or in the always-survivors: What are we measuring? And why?'' *Statistics in Medicine*. 42(29), 5479–5490.
 
-- **Xiang, Q.**, Sebastiani, P., Perls, T., Andersen, S.L., Ukraintseva, S., Thinggaard, M. and Lok, J.J., 2024. Estimating treatment effects from observational data under truncation by death using survival-incorporated quantiles. *arXiv preprint* arXiv:2407.00846.
+
+- **Xiang, Q.**, Sebastiani, P., Perls, T., Andersen, S.L., Ukraintseva, S., Thinggaard, M. and Lok, J.J., 2026. Estimating treatment effects from observational data under truncation by death using survival-incorporated quantiles. Accepted by *Biometrics*.
 
 - **Xiang, Q.**, Yuan, Y., Song, D., Wudil, U.J., Aliyu, M.H., Wester, C.W. and Shepherd, B.E., 2025. Double machine learning to estimate the effects of multiple treatments and their interactions. *arXiv* preprint arXiv:2505.12617.
 
