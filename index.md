@@ -16,5 +16,5 @@ hide_title: true
 
  <br/><br/>
 
-I am currently Assistant Professor of Biostatistics at Vanderbilt University Medical Center. My research spans statistical methods and applied clinical/epidemiogloic studies. My methodological research lies at the intersection of causal inference and machine learning. My applied work includes both randomized trials and observational studies, with focuses on infectious diseases, aging, and pain. 
 
+I am currently an Assistant Professor of Biostatistics at Vanderbilt University Medical Center. My research spans statistical methods and their applications in clinical and epidemiologic studies. I develop methods at the intersection of *causal inference* and *machine learning*. I collaborate with researchers on the design and analysis of randomized trials, observational studies, and genomics studies in different domains, including infectious diseases, aging, and pain.
