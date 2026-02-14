@@ -7,9 +7,12 @@ hide_title: true
 
  <br/><br/>
 
- <p style="text-align:center;">
-<img src="CX_final_FY.png" alt="photo" style="max-width:420px; border-radius:12px;">
-</p>
+<figure style="margin: 0 auto; max-width:420px;">
+  <img src="CX_final_FY.png" alt="photo" style="width:100%; height:auto;">
+  <figcaption style="font-size:0.8em; color:#777; margin-top:8px; text-align:left;">
+    Photo taken in Gonggar County, Sichuan, China
+  </figcaption>
+</figure>
 
  <br/><br/>
 
