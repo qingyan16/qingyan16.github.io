@@ -12,7 +12,7 @@ title: Bio
 
 ### Appointments
 - Assistant Professor, Vanderbilt University Medical Center, Nashville, US.
-  - 2024 - present
+  - [2024 - present](https://www.vumc.org/biostatistics/blog/qingyan-xiang-joins-our-faculty)
 - Lead statistician (adjunct), the Aurum Institute, Johannesburg, South Africa.
   - 2024 - present (this is a joint appointment with VUMC)
 - Statistician, Tufts Medical Center, Boston, US.
