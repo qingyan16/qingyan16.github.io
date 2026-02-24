@@ -1,6 +1,8 @@
 theme: minima
 title: Qingyan Xiang
+name: Qingyan Xiang
 description: Assistant Professor of Biostatistics, VUMC
+url: "https://qingyan16.github.io"
 
 header_pages:
     - index.md
