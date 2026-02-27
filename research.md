@@ -9,6 +9,12 @@ title: Research
 
  <br/><br/>
 
+**Research interests**
+- Methodology: causal inference, causal machine learning, AI/ML, clinical trials
+- Application: infectious disease (Tuberculosis and HIV), aging, pain research
+
+
+ <br/><br/>
 
 ## Selected papers
 

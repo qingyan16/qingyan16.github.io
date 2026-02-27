@@ -7,10 +7,10 @@ title: Bio
 ### Contact
 
  - Email: qingyan(dot)xiang(at)vumc(dot)org
- - Address: 2525 West End Ave. Suite 1100, Nashville, TN 37232.
+ - Address: 2525 West End Ave. Suite 1130, Nashville, TN 37232.
 
 
-### Appointments
+### Academic Appointments
 - Assistant Professor, Vanderbilt University Medical Center, Nashville, US.
   - [2024 - present](https://www.vumc.org/biostatistics/blog/qingyan-xiang-joins-our-faculty)
 - Lead statistician (adjunct), the Aurum Institute, Johannesburg, South Africa.
@@ -25,13 +25,14 @@ title: Bio
 - Ph.D. in Biostatistics, Boston University
   - Advisors: Judith Lok and Paola Sebastiani
 - M.S. in Statistics, University of Illinois at Urbana-Champaign
-- B.E. in Food Science and engineering, Zhejiang University
+- B.E. in Food Science and Engineering, Zhejiang University
 
 
+### Industrial Experience
+- Machine Learning Engineer Intern, Meta, Summer 2022
+- Data Scientist Intern, Facebook (*at that time, it was called Facebook*), Summer 2022=1
+- Data Scientist Intern, Corteva Agriscience, Summer 2017
 
-### Research interests
-- Methodology: causal inference, causal machine learning, AI/ML, genomics, clinical trials 
-- Application: infectious disease (Tuberculosis and HIV), aging, pain research
 
 
 ### Teaching
