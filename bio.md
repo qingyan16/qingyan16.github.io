@@ -30,7 +30,7 @@ title: Bio
 
 ### Industrial Experience
 - Machine Learning Engineer Intern, Meta, Summer 2022
-- Data Scientist Intern, Facebook (*at that time, it was called Facebook*), Summer 2022=1
+- Data Scientist Intern, Facebook (*at that time, it was called Facebook*), Summer 2021
 - Data Scientist Intern, Corteva Agriscience, Summer 2017
 
 
