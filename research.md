@@ -10,7 +10,8 @@ title: Research
  <br/><br/>
 
 **Research interests**
-- Methodology: causal inference, causal machine learning, AI/ML, clinical trials
+- Methodology: causal inference, AI/ML, clinical trials, genomics
+    - Specific topics including causal machine learning, treatment effect heterogeneity, target trial emulation, mediation analysis, and digital twins
 - Application: infectious disease (Tuberculosis and HIV), aging, pain research
 
 
@@ -26,7 +27,9 @@ title: Research
 
 - **Xiang, Q.**, Yuan, Y., Song, D., Wudil, U.J., Aliyu, M.H., Wester, C.W. and Shepherd, B.E., 2025. Double machine learning to estimate the effects of multiple treatments and their interactions. *arXiv* preprint arXiv:2505.12617.
 
-- **Xiang, Q.**, Zhang, J., and Feng, B., 2026. "Using large language models for sensitivity analysis in causal inference: case studies on Cornfield inequality and E-value." *arXiv* preprint arXiv:2603.14273.
+- **Xiang, Q.**, Zhang, J., and Feng, B., 2026. "Using large language models for sensitivity analysis in causal inference: case studies on Cornfield inequality and E-value." *arXiv* preprint arXiv:2603.14273. Accepted by *Observational Studies*
+
+
 
 
  <br/><br/>
@@ -40,6 +43,5 @@ title: Research
 
 - **Xiang, Q.**, Lok, J.J., Roth, N., Andersen, S.L., Perls, T.T., Song, Z., Yashin, A.I., Mengel-From, J., Patti, G.J. and Sebastiani, P., 2025. The role of lipids in the effect of APOE2 on cognitive function: a causal mediation analysis. *European Journal of Epidemiology*, pp.1-12.
 
-- Sebastiani, P., Reed, E., Chandler, K.B., Lopez, P., Lords, H., Bae, H., Costello, C.E., Au, M., Deng, L.L., Li, M., **Xiang, Q.**, Noh, H., Pflieger, L., Funk, C., Rappaport, N., Nygaard, M., Short, M.I., Brent, M., Monti, S., Andersen, S.L., Perls, T.T., n.d. A Robust Serum Proteomic Signature of the E2 Allele of Apolipoprotein E. *Advanced Science*, e09764.
 
 - Mudzengi, D., Mashatole, S., **Xiang, Q.**, Adrion, C., Glover, N., Ngwanto, T., Mdluli, J., Boniface, S., Rassool, M., Matome, B., Paramo, L., Svensson, E., Fasanmi, A., Angelo, S., Moyo, M., Marx, C., Khosa, C., Mokaba, L., Mofokeng, N., Lalashowi, J., Nacy, C., Charalambous, S., Fumane, E., Maphossa, V., Beattie, T., Brumskine, W., Venter, C., Mapamba, D., Heinrich, N., Rajaram, S., Kooverjee, S., Botha, L., Nell, M., Easton, A., Foraida, S., Warren, R. M., Sabi, I., Ntinginya, N., Wallis, R. S., panTB-HM Consortium, Zitha, A., Silva, C., Macuiana, R., Cubai, C., Boque, J., Matimbe, D., Chibandje, S., Ligeiro, S., Basson, E., Rachow, A., Naidoo, N., Nyanhongo, J., de Klerk, E., du Plooy, E., Tau, K. P., Mokhoko, C., Kasongo, M. C., Theko, L. C., Ruele, J., Booi, O. P., Thaba, M. M., Mothobi, S. P., Sein, N. N., Matlhase, K. F., Maila, M. L., Mphahlele, P. M., Theko, H. K., Ramatlhape, T. M., Senne, M. N., Mnqonywa, N., Ngwagwe, R. H., Shezi, S. C., Mkhize, N. C., Lekalakala, M. E., Molotsi, C. O., Letshwiti, K., Masilo, R. K., Nhlapo, S., Rakuba, J. N., Molatlhegi, K. M., Mampane, M. M., Thovhakale, A. A., Baumgarten, J. A., Lekotloane, S. C., Molefe, K., Motswenyane, P. K., Ntantiso, M. R., Letlole, L., Mabote, S., Powane, R. G., Tyobeka, R. N., Bhoola, A., Matsepe, T., Nke, N., Phakathi, T., Zikalala, Z., Magwasha, S., Spies, L., Jezile, V., and Barker, C., 2026. panTB-HM: a multi-arm clinical trial of a pan-TB regimen targeting both host and microbe. *Trials*, 27(1), 271. [[media report 1](https://www.hcplive.com/view/4-month-pan-tb-regimens-promise-lung-function-recovery)][[media report 2](https://www.hcplive.com/view/sutezolid-promise-safer-oxazolidinone-novel-4-month-tb-regimen)]
