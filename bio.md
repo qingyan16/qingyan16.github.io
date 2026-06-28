@@ -23,7 +23,7 @@ title: Bio
 
 ### Education
 - Ph.D. in Biostatistics, Boston University
-  - Advisors: Judith Lok and Paola Sebastiani
+  - Advisors: [Judith Lok](https://www.bu.edu/math/profile/judith-lok/) and [Paola Sebastiani](https://www.bu.edu/sph/profile/paola-sebastiani/)
 - M.S. in Statistics, University of Illinois at Urbana-Champaign
 - B.E. in Food Science and Engineering, Zhejiang University
 
@@ -45,6 +45,5 @@ Teaching assistant
 Instructor
 - BIOS 7352, Statistical Collaboration in Health Sciences II. Vanderbilt University. 
   - 2026 spring - present
-
 
 
